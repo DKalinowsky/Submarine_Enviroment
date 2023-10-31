@@ -1,0 +1,13 @@
+C:\Users\dkali\source\repos\ZadC3\bin\Debug\netcoreapp3.1\ZadC3.exe
+C:\Users\dkali\source\repos\ZadC3\bin\Debug\netcoreapp3.1\ZadC3.deps.json
+C:\Users\dkali\source\repos\ZadC3\bin\Debug\netcoreapp3.1\ZadC3.runtimeconfig.json
+C:\Users\dkali\source\repos\ZadC3\bin\Debug\netcoreapp3.1\ZadC3.runtimeconfig.dev.json
+C:\Users\dkali\source\repos\ZadC3\bin\Debug\netcoreapp3.1\ZadC3.dll
+C:\Users\dkali\source\repos\ZadC3\bin\Debug\netcoreapp3.1\ZadC3.pdb
+C:\Users\dkali\source\repos\ZadC3\obj\Debug\netcoreapp3.1\ZadC3.csprojAssemblyReference.cache
+C:\Users\dkali\source\repos\ZadC3\obj\Debug\netcoreapp3.1\ZadC3.AssemblyInfoInputs.cache
+C:\Users\dkali\source\repos\ZadC3\obj\Debug\netcoreapp3.1\ZadC3.AssemblyInfo.cs
+C:\Users\dkali\source\repos\ZadC3\obj\Debug\netcoreapp3.1\ZadC3.csproj.CoreCompileInputs.cache
+C:\Users\dkali\source\repos\ZadC3\obj\Debug\netcoreapp3.1\ZadC3.dll
+C:\Users\dkali\source\repos\ZadC3\obj\Debug\netcoreapp3.1\ZadC3.pdb
+C:\Users\dkali\source\repos\ZadC3\obj\Debug\netcoreapp3.1\ZadC3.genruntimeconfig.cache
